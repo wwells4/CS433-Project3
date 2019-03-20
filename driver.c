@@ -4,7 +4,14 @@
  * Schedule is in the format
  *
  *  [name] [priority] [CPU burst]
- */
+  */
+ 
+ /*
+William Wells
+&
+Chawon White
+*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
