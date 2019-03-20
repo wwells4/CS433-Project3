@@ -1,3 +1,9 @@
+/*
+William Wells
+&
+Chawon White
+*/
+
 #include <stdio.h>
 #include "task.h"
 #include "list.h"
